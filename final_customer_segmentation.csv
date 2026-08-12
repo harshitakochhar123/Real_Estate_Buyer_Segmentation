@@ -1,0 +1,5 @@
+behavior_cluster,segment,customers,customer_percentage,average_age,average_satisfaction,average_property_count,average_total_value,average_property_value,average_max_property_value,average_floor_area,average_total_area,Agency,Client,Website,priority,recommended_strategy
+0,Core Mainstream Buyers,913,45.65,56.08,3.08,3.64,1446407.35,401087.94,546047.52,1316.27,4750.05,34.9,9.2,55.9,High,"Cross-sell premium properties, home loans and additional investment opportunities."
+1,Younger Moderate-Value Buyers,102,5.1,48.15,3.05,3.61,1240325.73,345480.71,476090.28,1145.1,4107.1,37.3,11.8,51.0,Medium,"Use digital campaigns, affordable properties and entry-level investment products."
+2,Value-Oriented Buyers,938,46.9,56.78,2.96,3.48,1021460.1,295300.87,414664.66,985.34,3409.23,35.8,10.0,54.2,High,"Promote value-for-money properties, financing options and affordable investment opportunities."
+3,High-Value Portfolio Investors,47,2.35,64.13,3.47,7.4,2458260.65,335220.86,532678.01,1109.84,8138.54,25.5,4.3,70.2,Very High,"Prioritize relationship management, premium investment products, portfolio expansion and personalized offers."
